@@ -1,2 +1,2 @@
 # new-repo
-new dscirpion
+ditd read me
