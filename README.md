@@ -1,2 +1,2 @@
 # new-repo
-just my new repo
+new dscirpion
